@@ -12,8 +12,8 @@ In forward kinematics, the end-effector position and orientation are determined 
 
 <table>
      <tr>
-          <td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/forwardKin.png" /><br /><center><b>Forward Kinematics</b></center></td>
-          <td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/inverseKin.png" /><br /><center><b>Inverse Kinematics</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/manipulator.png" /><br /><center><b>Inverse Kinematics</b></center></td>
+          <td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/forwardKin.png" /><br /><center><b>Forward Kinematics</b></center></td>
+          <td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/inverseKin.png" /><br /><center><b>Inverse Kinematics</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/manipulator.png" /><br /><center><b>Inverse Kinematics</b></center></td>
      </tr>
 </table>
 
@@ -33,10 +33,10 @@ It has five main modules to handle the motion of the robotic arm. These are -
 
 <table>
      <tr>
-          <td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/mainModel.png" /><br /><center><b>Main model</b></center></td>
+          <td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/mainModel.png" /><br /><center><b>Main model</b></center></td>
      </tr>
      <tr>     
-          <td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/mechanicalModel.png" /><br /><center><b>Mechanical model</b></center></td>
+          <td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/mechanicalModel.png" /><br /><center><b>Mechanical model</b></center></td>
      </tr>
 </table>
 
@@ -44,7 +44,7 @@ It has five main modules to handle the motion of the robotic arm. These are -
 
 <table>
      <tr>
-          <td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/roboArm.png" /><br /><center><b>3D simulation</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/trajectoryModel.png" /><br /><center><b>Trajectory model</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/ImageX/main/screenshot/plot.png" /><br /><center><b>Expected 2D trajectory</b></center></td>
+          <td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/roboArm.gif" /><br /><center><b>3D simulation</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/trajectoryModel.png" /><br /><center><b>Trajectory model</b></center></td><td><img src="https://raw.githubusercontent.com/robustTechie/Arm_analyser/main/screenshot/plot.png" /><br /><center><b>Expected 2D trajectory</b></center></td>
      </tr>
 </table>
 
